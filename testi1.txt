@@ -1,1 +1,2 @@
 testi muokkaus yksi
+toinen muokkaus git add -p testiä varten
