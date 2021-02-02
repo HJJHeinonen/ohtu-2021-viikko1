@@ -69,7 +69,7 @@ class TestVarasto(unittest.TestCase):
 
         self.varasto2 = Varasto(-5)
 
-        self.assertAlmostEqual(self.varasto2.tilavuus,0)
+        self.assertAlmostEqual(self.varasto2.tilavuus,5)
 
     def test_luodaan_varasto_negatiivisella_alkusaldolla(self):
 
